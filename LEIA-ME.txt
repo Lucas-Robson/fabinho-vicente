@@ -1,0 +1,15 @@
+ESPAÇO DE DANÇAS FABINHO VICENTE — ATUALIZAÇÃO
+
+Arquivos incluídos:
+- index.html: site com a seção de planos individuais e para casais.
+- config.js: configuração Supabase original preservada.
+
+BANCO DE DADOS
+Esta atualização não apaga, recria nem altera tabelas do Supabase.
+
+VÍDEO DO YOUTUBE
+O espaço de boas-vindas está preparado, mas ainda não exibe um vídeo porque falta o link exato escolhido pelo professor.
+Quando receber o link, coloque-o na variável WELCOME_YOUTUBE_URL no script de index.html. O vídeo inicia sem som e em loop (quando o navegador permite autoplay).
+
+PUBLICAÇÃO
+Não publique este arquivo por cima de uma versão que contenha mudanças posteriores sem comparar antes. O domínio atual do Vercel não foi atualizado por este pacote.
